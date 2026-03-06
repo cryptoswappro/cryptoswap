@@ -1,5 +1,5 @@
 <body>
-    <h1>CryptoSwappro.io: A No-KYC Cryptocurrency Swap Service (Currently Offline)</h1>
+    <h1>CryptoSwappro.io: A No-KYC Cryptocurrency Swap Service </h1>
     <p>In the cryptocurrency space, where centralized platforms increasingly require full identity verification to comply with global regulations, services that allow instant coin swaps without KYC or account creation have always attracted strong interest. CryptoSwappro.io was exactly that kind of platform — a clean, non-custodial instant exchange designed for privacy-focused users who wanted to trade cryptocurrencies quickly and anonymously. The service let people exchange Bitcoin, Ethereum, altcoins, stablecoins and many other tokens without ever submitting personal documents or creating a profile. As of March 2026, however, the website remains inaccessible, leaving it unclear whether this is temporary downtime or a permanent closure.</p>
     <div class="highlight">
         <strong>Main features CryptoSwappro.io offered:</strong><br>
